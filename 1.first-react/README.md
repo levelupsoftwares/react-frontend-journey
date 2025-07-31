@@ -1,12 +1,14 @@
-# React + Vite
+#  Day 1 - React Setup + First Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Day 1** of my React Front-End Journey!  
+In this folder, I’ve:
 
-Currently, two official plugins are available:
+##  What I Did
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Installed React Project** using:
+   - `create-react-app`
+   - `Vite` (for exploring faster dev experience)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Created My First React Component**
+   - Built a basic functional component using JSX.
+   - Rendered the component to the DOM.
