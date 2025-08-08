@@ -1,4 +1,4 @@
-# Day 5 — Background Changer App 
+# Day 5 — Background Colour Changer App 
 On Day 5 of my React journey, I built a Background Changer App to explore state management and event handling in React.
 
 ## What I Learned
