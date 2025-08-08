@@ -6,15 +6,15 @@ In this mini-project, I built a **Password Generator App** using React. This pro
 
 ##  Features
 
-- ✅ Choose password length
-- ✅ Option to include numbers
-- ✅ Option to include special characters
-- ✅ Generate secure, random passwords
-- ✅ Copy to clipboard functionality
+-  Choose password length
+-  Option to include numbers
+-  Option to include special characters
+-  Generate secure, random passwords
+-  Copy to clipboard functionality
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 ### `useCallback` Hook  
 - Used for **memoizing** the password generation function.
@@ -37,7 +37,7 @@ In this mini-project, I built a **Password Generator App** using React. This pro
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Password Generator Screenshot](./public/Screenshot%20.png)
 
