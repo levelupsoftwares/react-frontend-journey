@@ -12,7 +12,7 @@ In this mini-project, I built a **Password Generator App** using React. This pro
 -  Generate secure, random passwords
 -  Copy to clipboard functionality
 
----
+----
 
 ##  What I Learned
 
