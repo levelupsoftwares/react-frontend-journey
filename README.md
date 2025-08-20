@@ -11,6 +11,7 @@ This repository documents my daily learning progress as I dive into React and Fr
 - Day 5: Built a background color changer(mini project 1) using `useState`
 - Day 6 + 7 :Built Password Generator App (mini project 2) using `useState` , `useEffect` , `useCallBack` , `useRef`
 - Day 8 + 9 :Built Simple website to explore React Router and how to handle navigation in Single Page 
+- Day 10 - 12 : I explored **React Context API**, a powerful way to manage state globally across the app without prop-drilling
 
 
 > I'm learning in public to improve, get feedback, and stay consistent! 💪
