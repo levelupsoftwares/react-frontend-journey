@@ -1,4 +1,4 @@
-# Day 6-7 - React Router Basics
+# Day 8-9 - React Router Basics
 
 In this project, I explored React Router and how to handle navigation in Single Page Applications (SPAs). Instead of reloading pages like traditional websites, React Router enables smooth client-side routing.
 ---
@@ -18,8 +18,8 @@ In this project, I explored React Router and how to handle navigation in Single 
 ##  Tech Stack
 
 - React (Functional Components)
-- HTML + TailwindCss
-- Hooks: ``react-router-dom`
+- HTML + TailwindCss + js +  React
+- `react-router-dom`
 
 ---
 
