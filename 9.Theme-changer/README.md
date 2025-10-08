@@ -30,8 +30,9 @@ This project demonstrates how to toggle between **Light Mode** and **Dark Mode**
 
 ![Website Screenshot](./public/w-Toggle.png)
 
+---
 
-**Without Toggle:-**
+**With Toggle:-**
 
 ![Website Screenshot](./public/Toggled.png)
 
