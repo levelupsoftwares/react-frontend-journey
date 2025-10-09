@@ -42,13 +42,3 @@ In this mini-project, I built a **Password Generator App** using React. This pro
 ![Password Generator Screenshot](./public/Screenshot%20.png)
 
 ---
-
-## 🌐 Live Preview  
-
-Experience the live version of this project here:  
-👉 **[View React App](https://levelupsoftwares.github.io/showcase/)**  
-
----
-
-
-
