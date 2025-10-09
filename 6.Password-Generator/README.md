@@ -43,5 +43,12 @@ In this mini-project, I built a **Password Generator App** using React. This pro
 
 ---
 
+## 🌐 Live Preview  
+
+Experience the live version of this project here:  
+👉 **[View React App](https://levelupsoftwares.github.io/showcase/)**  
+
+---
+
 
 

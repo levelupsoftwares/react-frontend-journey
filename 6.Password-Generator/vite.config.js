@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
+    base: '/react-frontend-journey/6.Password-Generator/',
 })
